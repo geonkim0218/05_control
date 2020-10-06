@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 		if ( c >= '0' && c <= '9')
 		{
 			num ++;
-			}	
+		}	
 	}
 
 	printf("the number of digits is %i\n", num); 
